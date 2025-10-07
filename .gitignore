@@ -1,0 +1,95 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.*
+
+# React Native
+.expo/
+.expo-shared/
+dist/
+build/
+coverage/
+babel-cache/
+
+
+
+metro-cache/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+android/app/build/
+*.apk
+*.aab
+*.keystore
+/vendor/
+# iOS
+ios/build/
+ios/Pods/
+ios/.swiftpm/
+ios/DerivedData/
+ios/*.xcodeproj/*
+!ios/*.xcodeproj/project.pbxproj
+!ios/*.xcodeproj/xcshareddata/
+!ios/*.xcodeproj/xcshareddata/xcschemes/
+ios/*.xcworkspace/
+!ios/*.xcworkspace/contents.xcworkspacedata
+*.xcuserdata
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Buck
+.buckd/
+buck-out/
+.buckconfig.local
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains
+out/
+
+# Misc
+*.keystore
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
+# Firebase / Google services
+android/app/google-services.json
+ios/GoogleService-Info.plist
+
+# Testing / Lint
+jest-cache/
+eslintcache/

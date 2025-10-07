@@ -1,0 +1,2 @@
+/Users/muhammad/Documents/github/Personal/washflowdemo/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/muhammad/Documents/github/Personal/washflowdemo/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
